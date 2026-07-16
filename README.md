@@ -26,7 +26,7 @@
 - HTML5
 - CSS3
 - JavaScript
-- React.js (Learning)
+- React.js 
 
 ### Tools
 - Git
